@@ -28,3 +28,5 @@ text-align: right;
 background-size:cover ;
 background-position:center ;
 }
+
+.flex{display:flex;}
